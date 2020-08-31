@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 57d7e7613b4e28144804faa3670d7f2e
+  m_configObjects:
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: 4deaba3d6628f804db4abe8f8ad9c09d,
+      type: 2}
